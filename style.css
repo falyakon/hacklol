@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+}
+
+div {
+    text-align: center;
+    height: 100%;
+    overflow: hidden;
+}
+
+img {
+    width: 100vw;
+}
