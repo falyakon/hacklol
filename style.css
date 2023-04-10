@@ -1,5 +1,11 @@
 * {
     background-color: black;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* Edge */
+    user-select: none; /* le reste */
+    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 div {
